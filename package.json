@@ -1,0 +1,19 @@
+{
+  "name": "pgats-automacao-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.7.3",
+    "cypress-mochawesome-reporter": "^5.0.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.6.0"
+  }
+}
